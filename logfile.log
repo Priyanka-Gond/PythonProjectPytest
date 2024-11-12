@@ -1,0 +1,16 @@
+2024-06-21 11:07:41,988: INFO: pytestfacebook.test_Logginddemo: this is an info block
+2024-06-21 11:07:41,988: ERROR: pytestfacebook.test_Logginddemo: these are error block
+2024-06-21 11:07:41,989: WARNING: pytestfacebook.test_Logginddemo: this is a waring block
+2024-06-21 11:07:41,989: CRITICAL: pytestfacebook.test_Logginddemo: this is critical block
+2024-07-17 19:55:28,427: INFO: pytestfacebook.test_Logginddemo: this is an info block
+2024-07-17 19:55:28,428: ERROR: pytestfacebook.test_Logginddemo: these are error block
+2024-07-17 19:55:28,428: WARNING: pytestfacebook.test_Logginddemo: this is a waring block
+2024-07-17 19:55:28,428: CRITICAL: pytestfacebook.test_Logginddemo: this is critical block
+2024-07-17 19:58:11,078: INFO: pytestfacebook.test_Logginddemo: this is an info block
+2024-07-17 19:58:11,079: ERROR: pytestfacebook.test_Logginddemo: these are error block
+2024-07-17 19:58:11,079: WARNING: pytestfacebook.test_Logginddemo: this is a waring block
+2024-07-17 19:58:11,079: CRITICAL: pytestfacebook.test_Logginddemo: this is critical block
+2024-07-30 22:47:10,519: INFO: pytestfacebook.test_Logginddemo: this is an info block
+2024-07-30 22:47:10,520: ERROR: pytestfacebook.test_Logginddemo: these are error block
+2024-07-30 22:47:10,520: WARNING: pytestfacebook.test_Logginddemo: this is a waring block
+2024-07-30 22:47:10,520: CRITICAL: pytestfacebook.test_Logginddemo: this is critical block
